@@ -16,5 +16,5 @@
             images are generated (Being randomly chosen parameters, hence images are not same)
  
 Some Examples of generated Synthetic Images -
-   
+   <p><img src="Assets/3.png" alt="" width="46%" align="left"></img><img src="Assets/4.png" alt="" width="46%" align="right"></img></p>
     
